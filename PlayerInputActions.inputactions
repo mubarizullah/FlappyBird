@@ -1,0 +1,34 @@
+{
+    "name": "PlayerInputActions",
+    "maps": [
+        {
+            "name": "Bird",
+            "id": "9e558875-589e-4b5b-8e7d-a41e24b3f7a6",
+            "actions": [
+                {
+                    "name": "Fly",
+                    "type": "Button",
+                    "id": "bc0e1712-fd8d-413c-8499-845e1fa659ef",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "783c95a8-ee40-4b5a-bea7-2b9ec127fb2d",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Fly",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
